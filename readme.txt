@@ -1,3 +1,5 @@
+This project is the original version of a digital VFO with analog dial display by Tj Lab(JF3HZB).
+
 VFOsys       : fixed step tuning
 VFOsys_astep : with adaptive step control
 
